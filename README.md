@@ -9,7 +9,7 @@ Did you mean:
 git ?
 ``` 
 # Installation
-* clone repo into any dir you like and navigate to repo dir
+* clone repo into your home directory (**IMPORTANT**) and navigate to repo dir
 * change permissions and user groups for `bin/crap.sh` to make it avaiable and executable (just example):
 ```bash
 $ chmod a+x bin/crap.sh
