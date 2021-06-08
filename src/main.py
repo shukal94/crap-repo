@@ -63,5 +63,4 @@ last_user_input = get_last_history_event()
 available_commands = get_all_available_stuff_from_shell()
 out_commands = format_out(last_user_input, available_commands)
 
-
 print OUTPUT_MESSAGE % out_commands
